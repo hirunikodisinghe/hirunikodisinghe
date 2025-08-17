@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Hiruni Kodisinghe</h1>
-<h3 align="center">Passionate IT undergraduate from Sri Lanka, eager to explore Machine Learning and Deep Learning.</h3>
+<h2 align="center">Passionate IT undergraduate from Sri Lanka, eager to explore Machine Learning and Deep Learning.</h2>
 
-<h2 align="center">
-I am an undergraduate student in Information Technology with a strong interest in Machine Learning, Deep Learning, and Data Science. I am passionate about exploring how AI can solve real-world problems and continuously eager to learn new technologies. Currently, I am working on academic and personal projects related to AI and software development, while also building my skills in full-stack development.
+<h3 align="center">
+I am an undergraduate student in Information Technology with a strong interest in Machine Learning and Deep Learning. I am passionate about exploring how AI can solve real-world problems and continuously eager to learn new technologies. Currently, I am working on academic and personal projects related to AI and software development, while also building my skills in full-stack development.
 
-</h2>
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hirunikodisinghe&label=Profile%20views&color=0e75b6&style=flat" alt="hirunikodisinghe" /> </p>
 
